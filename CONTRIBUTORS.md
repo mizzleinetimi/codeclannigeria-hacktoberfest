@@ -84,3 +84,9 @@ jonddon-branch
 - Bio: CS undergrad @FUTA, I code Python and Java.
 - Github: [ShowBaba](https://github.com/ShowBaba)
 
+### Name: [omu inetimi](https://github.com/mizzleinetimi)
+
+- Place: portharcourt rivers, Nigeria
+- Bio: EEE undergrad @uniport, software engineer.
+- Github: [mizzleinetimi](https://github.com/mizzleinetimi)
+
